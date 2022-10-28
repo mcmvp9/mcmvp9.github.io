@@ -1,12 +1,23 @@
 ---
-title: "My awesome website"
+title: "Melvin Coleman"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# Welcome to Melvin's Website 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+## Resume 
+Please click the link to access my academic & professional experience. 
+
+insert image 
+
+## Dashboard Project 
+
+insert image 
+
+## About 
+Learn more about me. 
+Insert image  
+
