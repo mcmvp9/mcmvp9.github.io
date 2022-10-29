@@ -5,10 +5,14 @@ navbar:
   right:
     - text: "About"
       href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Dashboard"
+      href: dashboard.html 
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<melvinobcoleman@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/mcmvp9
 output:
   html_document:
     theme: cerulean
