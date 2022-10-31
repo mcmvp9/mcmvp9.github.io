@@ -8,26 +8,23 @@ output:
 <br>
 
 ### Professional & Academic Experience
-</right>
+</left>
 <img src="images/resume_pic.png"style="width:25%">
  
-Please click the link to access my academic, leadership & professional experience. 
+Please click the link to access my academic, leadership & professional experience. <br>
 [Resume](resume.html)
+<br>
 <br>
 
 ### Projects
-
-<div class="pull-right"><img style="width:70%;display:inline;" 
-src=
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsdluwupgln2g2wvSJhqDwJwX4B3F9nyyZw&usqp=CAU"/></div>
+</left>
+<img src="images/dashboard_pic.png"style="width:25%">
 
 The most recent project I have worked on is a dashboard project for 
-P8105 Data Science 1 course.
-
-Learn more below by clicking on the link for access to the flexdashboard containing
-interactive visualizations of analysis on data collected in New York City from
-restaurant inspections.
+P8105 Data Science 1 course. Learn more by clicking on the link below for access to the flexdashboard containing interactive visualizations of analysis on data collected in New York City from
+restaurant inspections.<br>
 [Dashboard](dashboard.html)
+<br>
 <br>
 
 ### About Me

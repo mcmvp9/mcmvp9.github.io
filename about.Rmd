@@ -11,12 +11,5 @@ output:
 </script>
 
 <br>
-
-I am currently a Masters of Public Health student at the Mailman School of Public 
-Health studying Epidemiology with a certificate in Applied Biostatistics and 
-Public Health Data Science. I am interested in Data Science, Programming and 
-using statistics to inform evidence based decision making and research.
-I am originally from Liberia, West Africa but I moved to United States in 2015. <br> 
-I enjoy traveling, watching documentaries, and weight lifting during my free 
-time. 
+I am currently a Masters of Public Health student at the Mailman School of Public  Health studying Epidemiology with a certificate in Applied Biostatistics and Public Health Data Science. I am interested in Data Science, Programming and using statistics to inform evidence based decision making and research. I am originally from Liberia, West Africa but I moved to United States in 2015. I enjoy traveling, watching documentaries, and weight lifting during my free time. 
 
