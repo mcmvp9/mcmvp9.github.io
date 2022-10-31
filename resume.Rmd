@@ -1,7 +1,5 @@
 ---
-title: "resume"
-author: "Melvin Coleman"
-date: "2022-10-28"
+title: "Academic & Professional Experience"
 output: html_document
 ---
 
@@ -9,22 +7,111 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+### Education 
+##### Columbia University Mailman School of Public Health, New York, NY         	                         
+Master of Public Health Epidemiology,
+Certificate in Applied Biostatistics & Public Health Data Science 
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+##### University of Minnesota Twin Cities, College of Liberal Arts, Minneapolis, MN          	                     
+Bachelor of Arts Biology, Society, & Environment, Minor in Public Health
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### Technical Skills 
+##### Programming & Analytics 
+R, SAS, ArcGIS 
 
-```{r cars}
-summary(cars)
-```
+##### Data Science & Miscellaneous Technologies 
+Data Science Pipeline (cleansing, wrangling, visualization, modeling, visualization, dashboards) 
+Statistics, Excel, Git, Data Deduplication (Minnesota Electronic Disease Surveillance System)
 
-## Including Plots
+### Research Projects 
+##### Columbia University Mailman School of Public Health  (Jun 2022 - present) 
+- Design cross-sectional study from the Tanzania HIV Impact Survey (THIS) 2016-17 
+  to assess the association between adult male circumcision and Hepatitis B & C in 
+  Tanzania using logistic regression methods 
+- Performed analyses in SAS using macros & Excel to inform Tanzania HIV Impact Survey 2022-23 
+  lab deployment plan highlighting the number of participants per day for 3 
+  satellite labs in remote areas of Tanzania and provided report with bar graph 
+  visualization
 
-You can also embed plots, for example:
+##### University of Minnesota                              (Jun 2018 - Aug 2018)
+- Utilized the American Heart Association’s (AHA) Life Simple 7’s Metric to assess
+  the cardiovascular health of food shelf clients from survey data in Minnesota to
+  determine practive response to clients health needs; provided results with graph 
+  visualizations and poster presentation at the Summer 2018 University of 
+  Minnesota’s Research Symposium 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+### Professional Experience 
+##### ICAP at Columbia University, New York, NY & Dar Es Saleem, Tanzania (Jun 2022 – present)     
+##### Data Assistant (Aug 2022 – present)             
+- Conduct data cleaning and exploratory analyses using SAS macros to support 
+  the Population Based HIV Impact Assessment (PHIA) Project survey in Tanzania 
+  sampling more than 10,000 households and individuals aged 15+ years and older 
+- Test study instruments on tablets and review for consistency, develop standard 
+  operating procedures, prepare reports and presentations, in collaboration with 
+  in-country partners and other stakeholders to ensure accurate data collection
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+##### Intern, Tanzania HIV Impact Survey (Jun 2022 – Aug 2022)      
+- Performed analyses in SAS & Excel to inform Tanzania HIV Impact Survey 2022-23 lab
+  deployment plan highlighting the number of participants per day for 3 satellite labs 
+  in remote areas of Tanzania and provided report with bar graph visualization; 
+  attended weekly meetings with stakeholders (ICAP Tanzania, Centers for Disease 
+  Control and Prevention, National Bureau of Statistics Tanzania etc.) 
+  to discuss survey planning and address issues 
+- Configured survey instruments (300 Samsung tablets & 16 laboratory laptops) with 
+  interview questionnaire in CSPRO, maps in PHIA maps and lab inventory in Laboratory 
+  Database Management System (LDMS)
+- Supported household listing training through 1-1 mentoring during hands-on portion 
+  administering ICT and technical tablet support, distributing training materials and 
+  assistance to about 150 trainees
+
+##### Minnesota Department of Health                      (Jun 2020 - May 2022)
+##### Covid-19 Deduplication Lead (Jul 2021 – May 2022)                                                              
+- Conducted data cleaning and advanced deduplication on thousands of  incoming 
+  Covid-19 and existing disease data in the Minnesota Electronic Disease 
+   Surveillance Database to ensure data accuracy and organization 
+- Monitor deduplication workflows, update deduplication schedule and documentation 
+  to ensure quality assurance  
+- Supervise a team of 7 individuals, provide training and documentation for new 
+  hires on Covid-19 deduplications in the Minnesota Electronic Disease Surveillance 
+  Database
+
+##### Public Health Specialist (Oct 2020 – Jul 2021)
+- Assisted epidemiologists with outbreak-related investigations in various settings,
+  including schools, childcare facilities, youth and sports camps, prisons, jails, shelters, group homes and       
+  workplaces 
+- Reviewed epidemiologic data including medical records and laboratory data and 
+  communicated regularly with Minnesota Department of Education, Local Public Health 
+  and regional support teams 
+- Managed outbreak data including data entry and analysis and ensured data were
+  entered per protocol and available for CDC submission 
+
+##### Specialized Covid-19 Case Investigator & Contact Tracer (Jun – Oct 2020)
+- Used web-based client resource management (CRM) platform to contact individuals 
+  who have positive COVID-19 test result to provide them information, answer questions 
+  and discuss implications of positive diagnoses
+- Collaborated with a team of over 100 case investigators and state and local 
+  public health staff to identify and contact individuals who encountered high risk 
+  or infected Covid-19 individuals 
+- Collected and accurately entered data into the Minnesota Electronic Disease 
+  Surveillance System database for analysis 
+
+##### New York City Department of Health & Mental Hygiene, Queens, New York (Jun - Jul 2019)
+##### Intern, Office of Emergency Planning & Response                                                               
+- Conducted research on equitable response objective development and drafted 
+  protocols for DOHMH Incident Commanders (ICs) 
+- Provided support to mentors for the creation and development of the agency’s 
+  All Hazards Response Objective Inventory for emergencies 
+- Participated in weekly meetings to develop policy and strategize emergency response 
+  to the measles outbreak in Williamsburg, NY and the Ebola outbreak in the Democratic 
+  Republic of Congo 
+
+## Leadership Experience 
+- Mentor, Columbia University RISE Mentorship Program for First Generation 
+Students
+- President, Phi Beta Sigma Fraternity Incorporated 
+- Cohort Member, University of Minnesota Tom Burnett Leadership Program 
+- Peer Mentor, University of Minnesota President's Emerging Scholars Program 
+
+##### Please click on link for access to google document containing my resume.
+[Professional Resume](https://docs.google.com/document/d/1qQsmpHxqsO0vgyOxyGEYGrru9pI8QzZT9gSXudtlrzE/edit?usp=sharing)
+

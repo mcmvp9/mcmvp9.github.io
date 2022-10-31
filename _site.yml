@@ -3,17 +3,20 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About"
-      href: about.html
+  
     - text: "Resume"
       href: resume.html
     - text: "Dashboard"
       href: dashboard.html 
+    - text: "About"
+      href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<melvinobcoleman@gmail.com>
+    - icon: fa-brands fa-linkedin
+      href: https://www.linkedin.com/in/melvin-coleman-719244141////
     - icon: fa-github fa-lg
       href: http://github.com/mcmvp9
 output:
   html_document:
-    theme: cerulean
+    theme: journal
 

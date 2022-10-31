@@ -1,23 +1,43 @@
 ---
-title: "Melvin Coleman"
+title: "Welcome to Melvin Coleman's Website"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
+<br>
 
-# Welcome to Melvin's Website 
+### Professional & Academic Experience
+</right>
+<img src="images/resume_pic.png"style="width:25%">
+ 
+Please click the link to access my academic, leadership & professional experience. 
+[Resume](resume.html)
+<br>
 
-## Resume 
-Please click the link to access my academic & professional experience. 
+### Projects
 
-insert image 
+<div class="pull-right"><img style="width:70%;display:inline;" 
+src=
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxsdluwupgln2g2wvSJhqDwJwX4B3F9nyyZw&usqp=CAU"/></div>
 
-## Dashboard Project 
+The most recent project I have worked on is a dashboard project for 
+P8105 Data Science 1 course.
 
-insert image 
+Learn more below by clicking on the link for access to the flexdashboard containing
+interactive visualizations of analysis on data collected in New York City from
+restaurant inspections.
+[Dashboard](dashboard.html)
+<br>
 
-## About 
-Learn more about me. 
-Insert image  
+### About Me
+<img src="images/aboutme.jpeg" style = "width:15%"> 
+
+Learn more about me by clicking the link below.  
+[About Me](about.html)
+
+
+
+
+
 
