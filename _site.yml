@@ -8,7 +8,7 @@ navbar:
       href: resume.html
     - text: "Dashboard"
       href: dashboard.html 
-    - text: "About"
+    - text: "About Me"
       href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:<melvinobcoleman@gmail.com>
