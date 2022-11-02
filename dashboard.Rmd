@@ -19,7 +19,7 @@ data("rest_inspec")
 
 rest_inspec = 
   rest_inspec %>% 
-    as_tibble(instacart) %>% 
+    as_tibble(rest_inspec) %>% 
       janitor::clean_names() %>% 
         select(boro, cuisine_description, inspection_date, violation_code, violation_description, 
                grade, score) %>% 
