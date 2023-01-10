@@ -1,37 +1,53 @@
 ---
-title: "Welcome to Melvin Coleman's Website"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
+title: ""
+output: html_document
 ---
+<style>
+a:link {
+    color: #1D4F91;
+}
+
+a:visited {
+    color: #1D4F91;
+}
+
+ a:hover {
+    color: #1D4F91;
+}
+</style>
+
+
+
+<center>
+<img src="images/me.jpeg" style="width:30%; border:5px solid">
+
+
 <br>
 
-### Professional & Academic Experience
-</left>
-<img src="images/resume_pic.png"style="width:25%">
+### Melvin Coleman
+
+Master of Public Health (MPH) Candidate 2023 <br>
+Columbia University Mailman School of Public Health <br>
+Department of [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology) <br>
+Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) <br>
+</center>
+<br>
+
+### About 
  
 Please click the link to access my academic, leadership & professional experience. <br>
 [Resume](resume.html)
 <br>
 <br>
 
-### Projects
-</left>
-<img src="images/dashboard_pic.png"style="width:25%">
-
-The most recent project I have worked on is a dashboard project for 
-P8105 Data Science 1 course. Learn more by clicking on the link below for access to the flexdashboard containing interactive visualizations of analysis on data collected in New York City from
-restaurant inspections.<br>
-[Dashboard](dashboard.html)
-<br>
+### Contact Information 
 <br>
 
-### About Me
-<img src="images/aboutme.jpeg" style = "width:15%"> 
-
-Learn more about me by clicking the link below.  
-[About Me](about.html)
+Melvin Coleman <br> 
+Newark, NJ <br> 
+Email: [](mailto:mbc2178@cumc.columbia.edu) <br>
+LinkedIn:[](www.linkedin) <br>
+GitHub: [](https.)
 
 
 

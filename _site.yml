@@ -3,11 +3,8 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-  
     - text: "Resume"
       href: resume.html
-    - text: "Dashboard"
-      href: dashboard.html 
     - text: "About Me"
       href: about.html
     - icon: fa-envelope fa-lg
@@ -18,5 +15,5 @@ navbar:
       href: http://github.com/mcmvp9
 output:
   html_document:
-    theme: simplex
+    theme: journal
 
