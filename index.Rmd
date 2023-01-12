@@ -2,41 +2,34 @@
 title: ""
 output: html_document
 ---
-<style>
-a:link {
-    color: #1D4F91;
-}
-a:visited {
-    color: #1D4F91;
-}
- a:hover {
-    color: #1D4F91;
-}
-</style>
 
 <center>
 <img src="images/me.jpeg" style="width:30%; border:5px solid">
 
-<br>
 
-### Melvin Coleman
+
+# Melvin Coleman <br>
+
 
 Master of Public Health (MPH) Candidate 2023 <br>
 Columbia University Mailman School of Public Health <br>
 Department of [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology) <br>
 Certificate in [Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) <br>
 
+</b>
 <br>
 
-### About 
-<p align="left">
+# About 
+
+<p align="left" style="color:black;">
+
 I received a BA in Biology, Society and Environment with a minor in Public Health from the University of Minnesota-Twin Cities in 2020. I am currently a Master of Public Health student at the Mailman School of Public Health studying Epidemiology with a certificate in Applied Biostatistics and Public Health Data Science. I am interested in Data Science, statistics and using epidemiological methods/skills and to inform evidence based decision making and research to address real-world public health events. 
 </p>
-<p align="left"><br> Please see my [experience](resume.html) for more information.</p>
+<p align="left"> Please see my [experience page](resume.html) for more information about my academic and professional experience.</p>
 
 <br>
 
-### Contact Information 
+## Contact Information 
 Melvin Coleman <br> 
 Newark, NJ <br> 
 Email: [melvinobcoleman@gmail.com](mailto:mbc2178@cumc.columbia.edu) <br>

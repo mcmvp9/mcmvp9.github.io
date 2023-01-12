@@ -5,132 +5,141 @@ output:
     toc: true
     toc_float: true
 ---
-
-<style>
-.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
-    background-color: black;
-}
-
-a:link {
-    color: #1D4F91;
-}
-
-a:visited {
-    color: #1D4F91;
-}
-
- a:hover {
-    color: #1D4F91;
-}
-</style>
-
 <br>
 
 ## Education 
-Columbia University Mailman School of Public Health, New York, NY         	                         
-Master of Public Health Epidemiology,
-Certificate in Applied Biostatistics & Public Health Data Science 
+<b>[Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/) </b> &nbsp;&nbsp; New York,NY          	                         
+<b>Master of Public Health(MPH)</b> in [Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology),
+[Certificate in Applied Biostatistics & Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) 
 <br>
 
-University of Minnesota Twin Cities, College of Liberal Arts, Minneapolis, MN          	        
-Bachelor of Arts Biology, Society, & Environment, Minor in Public Health
+<b>[University of Minnesota Twin Cities](https://twin-cities.umn.edu/)</b> &nbsp;&nbsp;  Minneapolis, MN          	        
+<b>Bachelor of Arts(BA)</b> in [Biology, Society,& Environment](https://cla.umn.edu/geography/undergraduate/majors-minors/ba-biology-society-environment), Minor in [Public Health](https://cla.umn.edu/public-health-minor/about)
 
 ## Technical Skills <br>
-R, SAS, ArcGIS, Data Science Pipeline (cleansing, wrangling, visualization, modeling, visualization, dashboards), Statistics, Excel, Git, Data Deduplication (Minnesota Electronic Disease Surveillance System)
-
-## Research Projects 
+Statistics, R, SAS, ArcGIS, Data Science Pipeline (cleansing, wrangling, visualization, modeling, visualization, dashboards, shiny apps),Git & GitHub
 <br>
-Columbia University Mailman School of Public Health  (Jun 2022 - present) 
+
+## Projects 
+
+<b>[Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/) </b> &nbsp;&nbsp;  (Jun 2022 - present) <br>
+
 - Design cross-sectional study from the Tanzania HIV Impact Survey (THIS) 2016-17 
   to assess the association between adult male circumcision and Hepatitis B & C in 
   Tanzania using logistic regression methods 
+  <br>
+  
 - Performed analyses in SAS using macros & Excel to inform Tanzania HIV Impact Survey 2022-23 
   lab deployment plan highlighting the number of participants per day for 3 
   satellite labs in remote areas of Tanzania and provided report with bar graph 
   visualization
 <br>
-University of Minnesota                              (Jun 2018 - Aug 2018)
+
+<b>[University of Minnesota Twin Cities](https://twin-cities.umn.edu/)</b> &nbsp;&nbsp; (Jun 2018 - Aug 2018)
+<br>
+
 - Utilized the American Heart Association’s (AHA) Life Simple 7’s Metric to assess
   the cardiovascular health of food shelf clients from survey data in Minnesota to
   determine practive response to clients health needs; provided results with graph 
   visualizations and poster presentation at the Summer 2018 University of 
   Minnesota’s Research Symposium 
 
-## Professional Experience 
 <br>
-ICAP at Columbia University, New York, NY & Dar Es Saleem, Tanzania (Jun 2022 – present)<br>     
-Data Assistant (Aug 2022 – present)             
+
+## Professional Experience 
+
+<b>[ICAP at Columbia University](https://icap.columbia.edu/)</b>, New York,NY & Dar Es Salaam,Tanzania &nbsp;&nbsp; (Jun 2022 – present)   
+<b>Data Assistant(Aug 2022 – present) </b> 
+
 - Conduct data cleaning and exploratory analyses using SAS macros to support 
   the Population Based HIV Impact Assessment (PHIA) Project survey in Tanzania 
-  sampling more than 10,000 households and individuals aged 15+ years and older 
-- Test study instruments on tablets and review for consistency, develop standard 
-  operating procedures, prepare reports and presentations, in collaboration with 
-  in-country partners and other stakeholders to ensure accurate data collection
+      sampling more than 10,000 households and individuals aged 15+ years and older 
+      <br>
+      
+ - Test study instruments on tablets and review for consistency, develop standard 
+   operating procedures, prepare reports and presentations, in collaboration with 
+   in-country partners and other stakeholders to ensure accurate data collection
 
 <br>
+<b>Intern, Tanzania HIV Impact Survey(Jun 2022 – Aug 2022) </b> 
+<br>
 
-Intern, Tanzania HIV Impact Survey (Jun 2022 – Aug 2022)      
 - Performed analyses in SAS & Excel to inform Tanzania HIV Impact Survey 2022-23 lab
   deployment plan highlighting the number of participants per day for 3 satellite labs 
   in remote areas of Tanzania and provided report with bar graph visualization; 
   attended weekly meetings with stakeholders (ICAP Tanzania, Centers for Disease 
   Control and Prevention, National Bureau of Statistics Tanzania etc.) 
   to discuss survey planning and address issues 
+  <br>
 - Configured survey instruments (300 Samsung tablets & 16 laboratory laptops) with 
   interview questionnaire in CSPRO, maps in PHIA maps and lab inventory in Laboratory 
-  Database Management System (LDMS)
+  Database Management System (LDMS) 
+  <br>
 - Supported household listing training through 1-1 mentoring during hands-on portion 
   administering ICT and technical tablet support, distributing training materials and 
-  assistance to about 150 trainees
+  assistance to about 150 trainees <br>
 
+<b>[Minnesota Department of Health](https://www.health.state.mn.us/)</b> &nbsp;&nbsp; St.Paul,MN (Jun 2020 - May 2022) <br>
+<b>Covid-19 Deduplication Lead (Jul 2021 – May 2022) </b>    
 <br>
-Minnesota Department of Health                      (Jun 2020 - May 2022)
-Covid-19 Deduplication Lead (Jul 2021 – May 2022)                                                              
+
 - Conducted data cleaning and advanced deduplication on thousands of  incoming 
   Covid-19 and existing disease data in the Minnesota Electronic Disease 
    Surveillance Database to ensure data accuracy and organization 
+   <br>
 - Monitor deduplication workflows, update deduplication schedule and documentation 
-  to ensure quality assurance  
+  to ensure quality assurance 
+  <br>
 - Supervise a team of 7 individuals, provide training and documentation for new 
   hires on Covid-19 deduplications in the Minnesota Electronic Disease Surveillance 
-  Database
+  Database <br>
 
+<b>Public Health Specialist (Oct 2020 – Jul 2021)</b>
 <br>
-Public Health Specialist (Oct 2020 – Jul 2021)
+
 - Assisted epidemiologists with outbreak-related investigations in various settings,
-  including schools, childcare facilities, youth and sports camps, prisons, jails, shelters, group homes and workplaces 
+  including schools, childcare facilities, youth and sports camps, prisons, jails, shelters, group homes and workplaces
+  <br>
 - Reviewed epidemiologic data including medical records and laboratory data and 
   communicated regularly with Minnesota Department of Education, Local Public Health 
   and regional support teams 
+  <br>
 - Managed outbreak data including data entry and analysis and ensured data were
   entered per protocol and available for CDC submission 
 
 <br>
-Specialized Covid-19 Case Investigator & Contact Tracer (Jun – Oct 2020)
+<b>Specialized Covid-19 Case Investigator & Contact Tracer(Jun – Oct 2020) </b>
+<br>
+
 - Used web-based client resource management (CRM) platform to contact individuals 
   who have positive COVID-19 test result to provide them information, answer questions 
   and discuss implications of positive diagnoses
+  <br>
 - Collaborated with a team of over 100 case investigators and state and local 
   public health staff to identify and contact individuals who encountered high risk 
   or infected Covid-19 individuals 
+  <br>
 - Collected and accurately entered data into the Minnesota Electronic Disease 
   Surveillance System database for analysis 
 
 <br>
-New York City Department of Health & Mental Hygiene, Queens, New York (Jun - Jul 2019)
-Intern, Office of Emergency Planning & Response                                                               
+<b>[New York City Department of Health & Mental Hygiene](https://www.nyc.gov/site/doh/index.page)</b> &nbsp;&nbsp; Queens,New York (Jun-Jul 2019) <br>
+<b>Intern, Office of Emergency Planning & Response </b>
+<br>
+
 - Conducted research on equitable response objective development and drafted 
   protocols for DOHMH Incident Commanders (ICs) 
+  <br>
 - Provided support to mentors for the creation and development of the agency’s 
   All Hazards Response Objective Inventory for emergencies 
+  <br>
 - Participated in weekly meetings to develop policy and strategize emergency response 
   to the measles outbreak in Williamsburg, NY and the Ebola outbreak in the Democratic 
   Republic of Congo 
 
 ## Leadership Experience 
-- Mentor, Columbia University RISE Mentorship Program for First Generation 
-Students
-- President, Phi Beta Sigma Fraternity Incorporated 
-- Cohort Member, University of Minnesota Tom Burnett Leadership Program 
-- Peer Mentor, University of Minnesota President's Emerging Scholars Program 
+- Mentor, [Columbia University R.I.S.E Peer Mentor Program](https://www.publichealth.columbia.edu/research/rise-peer-mentor-program)
+- Undergraduate President, [Phi Beta Sigma Fraternity Incorporated](https://phibetasigma1914.org/) 
+- Nominee, [University of Minnesota Tom Burnett Advanced Leadership Program](https://lead.umn.edu/enrichment/tom-burnett-advanced-leadership-program) 
+- Peer Mentor, [University of Minnesota President's Emerging Scholars Program](https://admissions.tc.umn.edu/academics/special-programs/presidents-emerging-scholars-program) 
 

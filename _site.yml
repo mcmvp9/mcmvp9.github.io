@@ -4,7 +4,7 @@ navbar:
   title: "Home"
   right:
     - text: "Resume"
-      href: resume.html
+      href: documents/Melvin_Coleman_Official_Resume.pdf
     - icon: fa-envelope fa-lg
       href: mailto:<melvinobcoleman@gmail.com>
     - icon: fa-brands fa-linkedin
@@ -13,5 +13,5 @@ navbar:
       href: https://github.com/mcmvp9
 output:
   html_document:
-    theme: journal
+    theme: cosmo
 
