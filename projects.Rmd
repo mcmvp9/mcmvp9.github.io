@@ -1,10 +1,64 @@
----
-title: "Projects"
-author: "Melvin Coleman"
-date: "2023-01-28"
-output:
-  html_document:
-    toc: true
-    toc_float: true
----
+<html>
 
+<nav>
+ul {    list-style-type: none;         background-color: #43d6b9ff;    overflow: hidden; }
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: blue;
+}
+</style>
+<body>
+
+  <center>
+  <h1>Page is under construction!</h1>
+<!-- Page content -->
+<div class="container">
+
+  <!-- Images (Portfolio) -->
+ <img class= "img-fluid" src="images/this.png" alt="Ocean" class="w3-image" width="1000"     
+                height="400"/><i class="fa fa-home"></i><button id="open">
+                <a href="https://google.com">
+                <button class="btn">+</button>
+            </a>
+          </div>  
+
+
+</p>
+
+  <img src="images/this.png" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
+  
+  <img src="images/dashboard_pic.png" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
+ 
+</div>
+ </center>
+</body>
+</html>
+
+w3-content w3-padding-large w3-margin-top

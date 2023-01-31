@@ -4,9 +4,9 @@ navbar:
   title: "Melvin Coleman"
   right:
     - text: "Experience"
-      href: documents/Melvin_Coleman_Official_Resume.pdf
-    - text: "Projects"
-      href: projects.html
+      href: documents/Copy of Coleman, Melvin (Technical Resume) copy.pdf
+   # - text: "Projects"
+     # href: projects.html
     - icon: fa-envelope fa-lg
       href: mailto:<melvinobcoleman@gmail.com>
     - icon: fa-brands fa-linkedin
