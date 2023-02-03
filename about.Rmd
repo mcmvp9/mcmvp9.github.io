@@ -3,6 +3,7 @@ title: "BIOGRAPHGY"
 output: 
   html_document
 ---
+
 <script>
    $(document).ready(function() {
      $head = $('#header');

@@ -1,64 +1,131 @@
-<html>
 
-<nav>
-ul {    list-style-type: none;         background-color: #43d6b9ff;    overflow: hidden; }
+<html lang="en">
 <style>
-.container {
-  position: relative;
-  width: 100%;
-  max-width: 400px;
-}
+body {font-family: Arial, Helvetica, sans-serif;}
 
-.container img {
-  width: 100%;
-  height: auto;
-}
-
-.container .btn {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  background-color: transparent;
-  color: black;
-  font-size: 16px;
-  padding: 12px 24px;
-  border: none;
-  cursor: pointer;
+#myImg {
   border-radius: 5px;
-  text-align: center;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
-.container .btn:hover {
-  background-color: blue;
+#myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); 
+  background-color: rgba(0,0,0,0.9); 
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 80%;
+  max-width: 700px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
 }
 </style>
+</head>
 <body>
 
-  <center>
-  <h1>Page is under construction!</h1>
-<!-- Page content -->
-<div class="container">
+<center>
+<h2>RECENT PROJECTS </h2><hr>
+</center>
 
-  <!-- Images (Portfolio) -->
- <img class= "img-fluid" src="images/this.png" alt="Ocean" class="w3-image" width="1000"     
-                height="400"/><i class="fa fa-home"></i><button id="open">
-                <a href="https://google.com">
-                <button class="btn">+</button>
-            </a>
-          </div>  
+<center>
+<img id="myImg" src="images/tanzania.png" alt="Tanzania Map" style="width:100%;max-width:400px">
 
+<p style="font-weight: bold;" align="center">
+Thesis Project (In Progress) <br>
+Examining the association between adult male circumcision <br> and hepatitis B and C in Tanzania
+</bold> <br>
+</center>
+&nbsp;
+
+<center>
+<img id="myImg" src="images/qatar.jpeg" alt="Snow" style="width:100%;max-width:400px">
+
+<p style="font-weight: bold;" align="center">
+
+[Predicting Goals Scored in the FIFA World Cup Since 1990](https://mcmvp9.github.io/p8105_finalproject/)</bold> <br>
+</center>
 
 </p>
+&nbsp;
+<center>
+<img id="myImg" src="images/this.png" alt="Snow" style="width:100%;max-width:300px">
 
-  <img src="images/this.png" alt="Ocean II" class="w3-image w3-margin-top" width="1000" height="500">
-  
-  <img src="images/dashboard_pic.png" alt="Falls" class="w3-image w3-margin-top" width="1000" height="500">
- 
-</div>
- </center>
+<p style="font-weight: bold;" align="center">
+[The Tanzania HIV Impact Survey 2022-2023](https://icap.columbia.edu/news-events/building-community-building-skills-columbia-student-collaborates-on-tanzania-population-based-hiv-impact-assessment-survey/)</bold> <br>
+</center>   
+
+&nbsp;
+&nbsp;
+
 </body>
 </html>
-
-w3-content w3-padding-large w3-margin-top
+</center>
