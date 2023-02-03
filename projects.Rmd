@@ -100,10 +100,11 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <img id="myImg" src="images/tanzania.png" alt="Tanzania Map" style="width:100%;max-width:400px">
 
 <p style="font-weight: bold;" align="center">
-Thesis Project (In Progress) <br>
-Examining the association between adult male circumcision <br> and hepatitis B and C in Tanzania
-</bold> <br>
+Examining The Association Between Adult Male Circumcision <br> and Hepatitis B and C in Tanzania
+</bold><br>
+Thesis Project (In Progress) </p>
 </center>
+<hr>
 &nbsp;
 
 <center>
@@ -115,6 +116,7 @@ Examining the association between adult male circumcision <br> and hepatitis B a
 </center>
 
 </p>
+<hr>
 &nbsp;
 <center>
 <img id="myImg" src="images/this.png" alt="Snow" style="width:100%;max-width:300px">
@@ -124,6 +126,7 @@ Examining the association between adult male circumcision <br> and hepatitis B a
 </center>   
 
 &nbsp;
+<hr>
 &nbsp;
 
 </body>
