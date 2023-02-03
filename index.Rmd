@@ -26,7 +26,7 @@ Certificate in [Applied Biostatistics and Public Health Data Science](https://ww
 
 I received a BA in Biology, Society and Environment with a minor in Public Health from the University of Minnesota-Twin Cities in 2020. I am currently a Master of Public Health student at the Mailman School of Public Health studying Epidemiology with a certificate in Applied Biostatistics and Public Health Data Science. I am interested in Data Science, statistics and using epidemiological methods to inform evidence based decision making and research to address real-world public health events. 
 </p>
-<p align="left"> Please see my [Resume](href:documents/Coleman_Melvin.pdf) for more information about my academic and professional experience.</p>
+<p align="left"> Please see my [Resume](documents/Coleman, Melvin (Technical Resume).pdf) for more information about my academic and professional experience.</p>
 
 <br><hr>
 

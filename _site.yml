@@ -7,7 +7,7 @@ navbar:
      href: projects.html
   right:
     - text: "Experience"
-      href: ./documents/Coleman_Melvin.pdf
+      href: documents/Coleman, Melvin (Technical Resume).pdf
     - icon: fa-envelope fa-lg
       href: mailto:melvinobcoleman@gmail.com
     - icon: fa-brands fa-linkedin
