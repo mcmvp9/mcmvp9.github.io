@@ -1,50 +1,67 @@
 ---
-title: ""
-output: html_document
+title: <!-- Melvin Coleman -->
+output: 
+  html_document:
+    self_contained: false
 ---
+
+```{css echo=FALSE}
+
+.word-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.word-block {
+    background-color: lightgray;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+```
+
 <style>
 body {
-  background-color: transparent; 
+  background-color: transparent;
 }
-</style>
 
+</style>
 <center>
 <img src="images/me.jpeg" style="width:30%; border:5px solid">
 
-## Melvin Coleman <br>
+
 Statistician, Continuous Quality Improvement <br>
 Division of Research and Optimal Patient Care <br>
 [American College of Surgeons (ACS)](https://www.facs.org/quality-programs/?page=1) <br>
 633 N St Clair St <br>
 Chicago, IL 60611
-
+</center>
 </b>
 <br>
 
+<center>
 ## About 
+</center>
 
 <p align="left" style="color:black;">
 
 I hold a Bachelor of Arts degree in Biology, Society, and Environment with a minor in Public Health from the University of Minnesota-Twin Cities, awarded in 2020. Subsequently, I pursued advanced studies and earned a [Master of Public Health degree in Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology) with a [Certificate in Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) from the prestigious Mailman School of Public Health. 
 
-I have transitioned into a professional role as a Statistician at a nonprofit organization. In this capacity, I apply a rigorous skill set in data science, statistical analysis, and epidemiological methodologies to inform evidence-based decision-making. My work is dedicated to addressing real-world public health challenges and contributing to meaningful research initiatives aimed at improving community health outcomes.
+I currently work as a Statistician for the American College of Surgeons, concentrating on elevating surgical quality and outcomes through the National Surgical Quality Improvement Program (NSQIP).In my current position, I leverage an extensive skill set in data science, statistical analysis, and epidemiological methodologies to steer evidence-based decision-making. and research.</span>
 
-I currently work as a Statistician for the American College of Surgeons, concentrating on elevating surgical quality and outcomes through the National Surgical Quality Improvement Program (NSQIP).In my current position, I leverage an extensive skill set in data science, statistical analysis, and epidemiological methodologies to steer evidence-based decision-making. and research.
+</p>
 
 </p>
 <p align="left"> Please see my [Resume](documents/Coleman, Melvin (Technical Resume).pdf) for more information about my academic and professional experience.</p>
 
 <br><hr>
 
-## Contact Information 
-Melvin Coleman <br> 
-Newark, NJ <br> 
-Email: [melvinobcoleman@gmail.com](mailto:mbc2178@cumc.columbia.edu) <br>
-LinkedIn: [https://www.linkedin.com/in/melvin-coleman-719244141](https://www.linkedin.com/in/melvin-coleman-719244141) <br>
-GitHub: [https://github.com/mcmvp9](https://github.com/mcmvp9)
+<center>
+<h2>Contact Information</h2>
 
+Melvin Coleman <br> 
+Chicago, IL <br> 
+ <a href="mailto:melvinobcoleman@gmail.com"><i class="far fa-envelope"></i></a>
+ <a href="https://www.linkedin.com/in/melvin-coleman-719244141" target="_blank"><i class="fab fa-linkedin"></i></a> <a href="https://github.com/mcmvp9" target="_blank"><i class="fab fa-github"></i> </a>
 </center>
 </body>
-
-
-
