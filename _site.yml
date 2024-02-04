@@ -8,6 +8,8 @@ navbar:
   right:
     - text: "Experience"
       href: documents/Coleman, Melvin (Technical Resume).pdf
+    - text: "Fun Stuff"
+      href: about.html
     - icon: fa-envelope fa-lg
       href: mailto:melvinobcoleman@gmail.com
     - icon: fa-brands fa-linkedin
