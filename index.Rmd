@@ -47,7 +47,7 @@ Chicago, IL 60611
 
 I hold a Bachelor of Arts degree in Biology, Society, and Environment with a minor in Public Health from the University of Minnesota-Twin Cities, awarded in 2020. Subsequently, I pursued advanced studies and earned a [Master of Public Health degree in Epidemiology](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/columbia-mph/mph-epidemiology) with a [Certificate in Applied Biostatistics and Public Health Data Science](https://www.publichealth.columbia.edu/academics/degrees/master-public-health/certificates/applied-biostatistics-and-public-health-data-science) from the prestigious Mailman School of Public Health. 
 
-I currently work as a Statistician for the American College of Surgeons, concentrating on elevating surgical quality and outcomes through the National Surgical Quality Improvement Program (NSQIP).In my current position, I leverage an extensive skill set in data science, statistical analysis, and epidemiological methodologies to steer evidence-based decision-making. and research.</span>
+I currently work as a Statistician for the American College of Surgeons, concentrating on elevating surgical quality and outcomes through the National Surgical Quality Improvement Program (NSQIP). In my current position, I leverage an extensive skill set in data science, statistical analysis, and epidemiological methodologies to steer evidence-based decision-making and research.</span>
 
 </p>
 

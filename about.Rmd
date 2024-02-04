@@ -1,9 +1,10 @@
 ---
-title: "BIOGRAPHGY"
+title: "BIOGRAPHGY/ FUN STUFF ABOUT ME"
 output: 
   html_document
 ---
 
+/* PUT BLOCKS OF THINGS OR PICTURES ABOUT WHAT YOU LIKE TO DO */
 <script>
    $(document).ready(function() {
      $head = $('#header');
