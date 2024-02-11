@@ -2,23 +2,21 @@ name: "Personal Website"
 output_dir: "."
 navbar:
   title: "Melvin Coleman"
-  left:
+  right:
    - text: "Projects"
      href: projects.html
-  right:
-    - text: "Experience"
-      href: documents/Coleman, Melvin (Technical Resume).pdf
-    - text: "Fun Stuff"
-      href: about.html
-    - icon: fa-envelope fa-lg
-      href: mailto:melvinobcoleman@gmail.com
-    - icon: fa-brands fa-linkedin
-      href: https://www.linkedin.com/in/melvin-coleman-719244141////
-    - icon: fa-github fa-lg
-      href: https://github.com/mcmvp9
+   - text: "Experience"
+     href: documents/Coleman, Melvin (Technical Resume).pdf
+   - text: "Fun Stuff"
+     href: about.html
+   - icon: fa-envelope fa-lg
+     href: mailto:melvinobcoleman@gmail.com
+   - icon: fa-brands fa-linkedin
+     href: https://www.linkedin.com/in/melvin-coleman-719244141////
+   - icon: fa-github fa-lg
+     href: https://github.com/mcmvp9
 output:
   html_document:
     theme: readable
     include:
       after_body: footer.html
-
