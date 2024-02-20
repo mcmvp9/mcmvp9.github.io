@@ -17,6 +17,6 @@ navbar:
      href: https://github.com/mcmvp9
 output:
   html_document:
-    theme: readable
+    theme: journal
     include:
       after_body: footer.html
