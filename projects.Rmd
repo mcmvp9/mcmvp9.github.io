@@ -100,9 +100,8 @@ body {font-family: Arial, Helvetica, sans-serif;}
 <img id="myImg" src="images/tanzania.png" alt="Tanzania Map" style="width:100%;max-width:400px">
 
 <p style="font-weight: bold;" align="center">
-Examining The Association Between Adult Male Circumcision <br> and Hepatitis B and C in Tanzania
-</bold><br>
-Thesis Project (In Progress) </p>
+[Examining The Association Between Adult Male Circumcision <br> and Hepatitis B and C in Tanzania](documents/Coleman_Melvin_Final Thesis.pdf)
+</bold><br></p>
 </center>
 <hr>
 &nbsp;
